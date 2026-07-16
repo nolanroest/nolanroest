@@ -14,11 +14,11 @@ Building dependable software across web, cloud, and native iOS, with an emphasis
 
 | If you are looking for... | Start here | What it demonstrates |
 | --- | --- | --- |
-| Consulting, cloud, and enterprise delivery | [Enterprise Web Application Case Study](https://github.com/nolanroest/enterprise-web-application-case-study) | Translating operational needs into architecture, integration, reliability, and delivery decisions |
-| Native iOS development and modernization | [SwiftUI Migration Case Study](https://github.com/nolanroest/swiftui-migration-case-study) | A controlled web-to-native migration, service-contract preservation, rollout planning, and SwiftUI architecture |
-| Full-stack and real-time application development | [Realtime Auction Platform](https://github.com/nolanroest/realtime-auction-platform) | React, Express, Socket.IO, authorization, event-driven workflows, and end-to-end product implementation |
-| Secure web application engineering | [Secure Web Application](https://github.com/nolanroest/secure-web-application) | REST APIs, scrypt password hashing, JWT sessions, role-based access, scheduling, and grading workflows |
-| Relational databases and data modelling | [Animal Watch Data System](https://github.com/nolanroest/animal-watch-data-system) | MySQL schema design, analytical SQL, synthetic data generation, and a Python/Streamlit data workflow |
+| Consulting, cloud, and enterprise delivery | [GridOps Enterprise Web Application](https://github.com/nolanroest/gridops-enterprise-web-application) | Translating operational needs into architecture, integration, reliability, and delivery decisions |
+| Native iOS development and modernization | [GridOps SwiftUI Migration](https://github.com/nolanroest/gridops-swiftui-migration) | A controlled web-to-native migration, service-contract preservation, rollout planning, and SwiftUI architecture |
+| Full-stack and real-time application development | [Kogbucks Auction Platform](https://github.com/nolanroest/kogbucks-auction-platform) | React, Express, Socket.IO, authorization, event-driven workflows, and end-to-end product implementation |
+| Secure web application engineering | [School Registration Full-stack](https://github.com/nolanroest/school-registration-fullstack) | REST APIs, scrypt password hashing, JWT sessions, role-based access, scheduling, and grading workflows |
+| Relational databases and data modelling | [Animal Watch Database System](https://github.com/nolanroest/animal-watch-database-system) | MySQL schema design, analytical SQL, synthetic data generation, and a Python/Streamlit data workflow |
 | Java desktop application development | [iFinance JavaFX](https://github.com/nolanroest/ifinance-javafx) | JavaFX, FXML controllers, domain modelling, JDBC adapters, Maven, and embedded persistence |
 
 ## How I approach engineering
