@@ -2,18 +2,18 @@
 
 # Nolan Roest
 
-**Software Engineering student building application-focused products across web, iOS, and cloud.**
+**Software Engineering student building production applications across web, cloud, and iOS.**
 
-`Full-stack development` · `SwiftUI` · `AWS` · `Architecture` · `Technical consulting`
+`Full-stack & cloud` · `SwiftUI & iOS` · `Solution architecture` · `Technical consulting`
 
 </div>
 
-I turn ambiguous requirements into maintainable software, with an emphasis on clear architecture, practical trade-offs, reliable delivery, and business context.
+I build from requirements through deployment. My experience includes enterprise React and Node.js delivery on AWS, authentication and backend integration, cloud architecture consulting, and embedded avionics leadership.
 
 ## Selected work
 
-- **[GridOps Enterprise Web Application](https://github.com/nolanroest/gridops-enterprise-web-application)** — consulting, cloud integration, architecture, and delivery decisions.
-- **[GridOps SwiftUI Migration](https://github.com/nolanroest/gridops-swiftui-migration)** — controlled web-to-native migration and service-contract preservation.
+- **[GridOps Enterprise Web Application](https://github.com/nolanroest/gridops-enterprise-web-application)** — enterprise React and Node.js delivery, AWS integration, SSO, CI/CD, and architecture decisions.
+- **[GridOps SwiftUI Migration](https://github.com/nolanroest/gridops-swiftui-migration)** — controlled web-to-native migration, authentication, and service-contract preservation.
 - **[Kogbucks Auction Platform](https://github.com/nolanroest/kogbucks-auction-platform)** — React, Express, Socket.IO, authentication, and real-time workflows.
 - **[School Registration Full-stack](https://github.com/nolanroest/school-registration-fullstack)** — secure REST APIs, role-based access, scheduling, and grading workflows.
 - **[Animal Watch Database System](https://github.com/nolanroest/animal-watch-database-system)** — relational modelling, analytical SQL, Python, and Streamlit.
@@ -50,8 +50,10 @@ I turn ambiguous requirements into maintainable software, with an emphasis on cl
 
 ## Toolkit
 
-`TypeScript` · `React` · `Node.js` · `SwiftUI` · `Java` · `SQL` · `AWS` · `Git`
+**Languages:** `TypeScript` · `JavaScript` · `Python` · `Java` · `C#` · `C` · `SQL`
+
+**Platforms & tools:** `React` · `Node.js` · `SwiftUI` · `JavaFX` · `AWS` · `MySQL` · `Git`
 
 ## Current focus
 
-Entering my final year of Software Engineering and developing stronger application, cloud, mobile, and consulting-focused work.
+Completing my Software Engineering degree at Western University in 2027, with a focus on application development, cloud architecture, native mobile, and technical consulting.
