@@ -42,6 +42,39 @@ Cloud-backed architecture, integration boundaries, automation, observability, op
 **Technical consulting**  
 Clarifying ambiguous requirements, connecting technical decisions to business context, communicating trade-offs, and planning incremental delivery.
 
+## Coursework and technical breadth
+
+The featured projects above are the best starting point. The collections below preserve additional implementation evidence without competing with the primary application and consulting narrative.
+
+<details>
+<summary><strong>Application-development coursework</strong></summary>
+
+- [DebateGPT Chat Interface](https://github.com/nolanroest/debategpt-chat-interface) - JavaScript, Netlify functions, and an external model API boundary
+- [Western SE 2202 Coursework](https://github.com/nolanroest/western-se2202-coursework) - object-oriented design and JavaScript mini-projects
+- [Western SE 2203 Coursework](https://github.com/nolanroest/western-se2203-coursework) - Java, JavaFX, FXML, and desktop applications
+- [Western SE 2205 Labs](https://github.com/nolanroest/western-se2205-labs) - Java generics and data structures
+- [Western SE 2250 Coursework](https://github.com/nolanroest/western-se2250-coursework) - JavaScript, C#/.NET, and Unity foundations
+- [Java Labs](https://github.com/nolanroest/java-labs) - language, algorithms, and data-structure exercises
+- [Processing Foundations](https://github.com/nolanroest/processing-foundations) - interactive graphics and object-oriented progression
+- [Restaurant Simulation](https://github.com/nolanroest/restaurant-simulation-processing) - Processing/Java domain modelling
+- [High-School Computing Coursework](https://github.com/nolanroest/high-school-computing-coursework) - early programming progression
+- [Supporting Coursework](https://github.com/nolanroest/western-supporting-coursework) - HTML and sanitized consulting-oriented artifacts
+
+</details>
+
+<details>
+<summary><strong>Systems, networking, embedded, and game-development breadth</strong></summary>
+
+- [SE 3314 Networking Protocols](https://github.com/nolanroest/se3314-networking-protocols) - binary protocols, TCP, and Kademlia-style peer routing
+- [Sustainability-Aware xv6 Kernel](https://github.com/nolanroest/xv6-sustainability-kernel) - kernel state, system calls, accounting, and scheduling
+- [Embedded Combination Lock](https://github.com/nolanroest/embedded-combination-lock) - embedded C, finite-state control, and board I/O
+- [FPGA Digital Design Coursework](https://github.com/nolanroest/fpga-digital-design-coursework) - Quartus, Verilog, and FPGA workflows
+- [Western ECE 2277 Coursework](https://github.com/nolanroest/western-ece2277-coursework) - supporting digital-design labs
+- [Unity Action Game Code](https://github.com/nolanroest/unity-action-game-code) - C# gameplay systems from a team project
+- [Third-Year Coursework](https://github.com/nolanroest/western-third-year-coursework) - networking analysis, computational notebooks, and diagrams
+
+</details>
+
 ## Current direction
 
 I am entering my final year of Software Engineering and continuing to develop stronger application, cloud, and consulting-focused projects. This profile is deliberately curated: the repositories above are the primary portfolio, while systems, networking, embedded, FPGA, and game-development work remain secondary evidence of technical breadth.
