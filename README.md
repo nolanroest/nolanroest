@@ -8,7 +8,7 @@
 
 </div>
 
-I build from requirements through deployment. My experience includes enterprise React and Node.js delivery on AWS, authentication and backend integration, cloud architecture consulting, and embedded avionics leadership.
+I build from requirements through deployment. My experience includes enterprise React and Node.js delivery on AWS, authentication and backend integration, cloud architecture consulting, and pipeline infrastructure integration.
 
 ## Selected work
 
