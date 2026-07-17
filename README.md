@@ -75,12 +75,12 @@ I turn operational requirements into dependable software—from the interface an
 
 | Area | Verified toolkit | Portfolio evidence |
 | --- | --- | --- |
-| Native mobile | Swift, SwiftUI, native lifecycle and service boundaries | GridOps SwiftUI migration case study |
-| Full stack | TypeScript, JavaScript, React, Node.js, Express | Kogbucks, School Operations Portal, Mastermind |
-| AWS | Amplify Gen 2, Cognito, Lambda, DynamoDB, API Gateway, AppSync Events, CDK | Mastermind workshop implementation |
-| Data | MySQL, SQL, Python, Streamlit, embedded persistence | Animal Watch, iFinance |
-| Systems | C, TCP, binary protocols, xv6, scheduling | xv6 Sustainability Kernel, SE 3314 protocols |
-| Enterprise | Authentication, SAML, SAP integration, API boundaries, CI/CD | Sanitized GridOps case studies |
+| Native mobile | Swift, SwiftUI, native lifecycle and service boundaries | GridOps SwiftUI Migration |
+| Full stack | TypeScript, JavaScript, React, Node.js, Express | Kogbucks, School Registration, GridOps Enterprise |
+| Cloud delivery | Managed identity, API boundaries, serverless services, object storage, CI/CD | GridOps Enterprise Web Application |
+| Data | MySQL, SQL, Python, Streamlit, Derby, JDBC | Animal Watch, iFinance |
+| Real-time systems | Socket.IO, event-driven state, room isolation, notifications | Kogbucks Auction Platform |
+| Enterprise | Authentication, SAML, SAP integration, contract preservation | GridOps web and SwiftUI case studies |
 
 </details>
 
@@ -96,7 +96,7 @@ Client experiences        Identity & APIs             Runtime & delivery
           └──────── resilient workflows · CI/CD · observability ┘
 ```
 
-My cloud work centres on explicit boundaries: clients do not own infrastructure concerns, authentication is treated as a system capability, service permissions remain narrow, and deployment configuration stays separate from source. The Mastermind project provides public code evidence for an Amplify Gen 2 backend with Cognito, Lambda, DynamoDB, API Gateway, CDK constructs, and AppSync Events.
+My cloud work centres on explicit boundaries: clients do not own infrastructure concerns, authentication is treated as a system capability, service permissions remain narrow, and deployment configuration stays separate from source. The GridOps Enterprise case study documents how those principles support operational workflows, enterprise authentication, managed data and storage, and controlled downstream integration.
 
 ## <img src="https://img.shields.io/badge/04-Featured_Systems-FA7343?style=for-the-badge" alt="Section 4: Featured systems" />
 
@@ -104,24 +104,48 @@ My cloud work centres on explicit boundaries: clients do not own infrastructure 
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Real-Time Mastermind on AWS](https://github.com/nolanroest/DVT307_Workshop)
+### 🐾 [Animal Watch Data System](https://github.com/nolanroest/animal-watch-database-system)
 
-Serverless multiplayer game architecture built with React, TypeScript, Amplify Gen 2, Cognito, Lambda, DynamoDB, API Gateway, and AppSync Events.
+Relational wildlife-travel system with schema constraints, analytical SQL, deterministic data generation, and Streamlit workflows.
 
-`AWS` `React` `TypeScript` `Real time` `Infrastructure as code`
+`MySQL` `SQL` `Python` `Streamlit`
 
-**Highlights:** authenticated REST boundary, event channels, DynamoDB streams, leaderboard pipeline, CDK constructs.
+**Highlights:** normalized model, synthetic portfolio data, reproducible setup, reporting queries.
 
 </td>
 <td width="50%" valign="top">
 
+### ☁️ [GridOps Enterprise Web Application](https://github.com/nolanroest/gridops-enterprise-web-application)
+
+Sanitized professional case study covering operational web workflows, cloud boundaries, enterprise authentication, and systems integration.
+
+`React` `TypeScript` `Cloud architecture` `Enterprise integration`
+
+**Highlights:** workflow modelling, validation boundaries, recoverable failures, stakeholder-facing architecture decisions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📱 [GridOps SwiftUI Migration](https://github.com/nolanroest/gridops-swiftui-migration)
 
-Sanitized professional case study on moving an established enterprise workflow to native iOS without exposing employer code or customer details.
+Sanitized professional case study on moving an established enterprise workflow to native iOS while preserving service contracts and operational behaviour.
 
 `SwiftUI` `Migration architecture` `Auth recovery` `Contract preservation`
 
 **Highlights:** parity planning, native lifecycle, service isolation, device/media workflows, cutover risk.
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [iFinance JavaFX](https://github.com/nolanroest/ifinance-javafx)
+
+Desktop personal-finance administration system built around Java domain models, FXML interfaces, and an embedded database.
+
+`Java` `JavaFX` `FXML` `JDBC` `Apache Derby`
+
+**Highlights:** adapter-based persistence, user administration, account modelling, multi-window workflows, Maven build.
 
 </td>
 </tr>
@@ -139,9 +163,9 @@ Full-stack marketplace with live bidding, chat, notifications, time extension, r
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [Secure Course Operations Portal](https://github.com/nolanroest/school-registration-fullstack)
+### 🛡️ [School Registration Full Stack](https://github.com/nolanroest/school-registration-fullstack)
 
-Role-aware course operations system for membership, scheduling, bookings, and grading.
+Role-aware course operations system for membership, scheduling, bookings, grading, and public course discovery.
 
 `React` `Express` `scrypt` `JWT` `REST`
 
@@ -149,68 +173,20 @@ Role-aware course operations system for membership, scheduling, bookings, and gr
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [Sustainability-Aware xv6](https://github.com/nolanroest/xv6-sustainability-kernel)
-
-Teaching-kernel extension that connects environmental state to process accounting and scheduling policy.
-
-`C` `xv6` `System calls` `Scheduling` `QEMU`
-
-**Highlights:** four new syscalls, five-zone state model, energy ticks, mitigation-aware throttling.
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 [Animal Watch Data System](https://github.com/nolanroest/animal-watch-database-system)
-
-Relational wildlife-travel system with schema constraints, analytical SQL, deterministic data generation, and Streamlit workflows.
-
-`MySQL` `SQL` `Python` `Streamlit`
-
-**Highlights:** normalized model, synthetic portfolio data, reproducible setup, reporting queries.
-
-</td>
-</tr>
 </table>
 
-### Consulting spotlight
-
-[**GridOps Enterprise Web Application →**](https://github.com/nolanroest/gridops-enterprise-web-application) A deliberately sanitized case study covering React/Node.js delivery, cloud boundaries, enterprise authentication, operational workflows, and stakeholder-facing architecture decisions.
-
-## <img src="https://img.shields.io/badge/05-Education_%26_Learning-8B5CF6?style=for-the-badge" alt="Section 5: Education and learning" />
-
-| Track | Current evidence |
-| --- | --- |
-| **B.E.Sc. Software Engineering** | Western University · expected 2027 |
-| **Cloud architecture** | AWS Amplify Gen 2 workshop implementation and enterprise delivery case studies |
-| **Native development** | SwiftUI migration architecture, state recovery, device integration, and service contracts |
-| **Systems breadth** | xv6 kernel policy, TCP protocols, embedded C, FPGA, Java and .NET coursework |
-| **Next portfolio milestones** | Fourth-year and capstone work, stronger automated testing, infrastructure documentation |
-
-> Certification badges are intentionally omitted until a credential can be publicly verified.
-
-## <img src="https://img.shields.io/badge/06-Engineering_Activity-22D3EE?style=for-the-badge" alt="Section 6: Engineering activity" />
+## <img src="https://img.shields.io/badge/05-Engineering_Activity-22D3EE?style=for-the-badge" alt="Section 5: Engineering activity" />
 
 <div align="center">
 
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nolanroest&theme=github_dark" alt="Nolan's public GitHub statistics" />
 <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nolanroest&theme=github_dark" alt="Languages represented in Nolan's public commits" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nolanroest&theme=github-compact&hide_border=true&area=true&color=22D3EE&line=8B5CF6&point=FA7343" alt="Nolan's public GitHub contribution activity graph" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolanroest/nolanroest/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nolanroest/nolanroest/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/nolanroest/nolanroest/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 
 <sub>Language cards reflect public repository bytes and are one signal—not a claim of proficiency ranking.</sub>
 
-## <img src="https://img.shields.io/badge/07-Now_%26_Next-FA7343?style=for-the-badge" alt="Section 7: Current work and goals" />
+## <img src="https://img.shields.io/badge/06-Now_%26_Next-FA7343?style=for-the-badge" alt="Section 6: Current work and goals" />
 
 - Deepening cloud architecture and deployment practices around AWS-managed services.
 - Expanding native SwiftUI and offline-first patterns: SQLite persistence, synchronization queues, retries, and connectivity-aware UX.
