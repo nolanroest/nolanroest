@@ -50,9 +50,11 @@ I build from requirements through deployment. My experience includes enterprise 
 
 ## Toolkit
 
-**Languages:** `TypeScript` · `JavaScript` · `Python` · `Java` · `C#` · `C` · `SQL`
+**Languages:** `TypeScript` · `JavaScript` · `Python` · `Java` · `C` · `C#` · `SQL` · `ABAP` · `HTML` · `CSS`
 
-**Platforms & tools:** `React` · `Node.js` · `SwiftUI` · `JavaFX` · `AWS` · `MySQL` · `Git`
+**Frameworks:** `React` · `Node.js` · `SwiftUI` · `JavaFX`
+
+**Platforms & tools:** `AWS` · `Microsoft Azure` · `SAP` · `MySQL` · `Git` · `Postman` · `Processing`
 
 ## Current focus
 
